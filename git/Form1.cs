@@ -19,7 +19,7 @@ namespace git
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "var3";
+            label1.Text = "var4";
         }
     }
 }
